@@ -1,4 +1,4 @@
-# Atom Google Translate Modal
+# Atom Google Translate Modal (English-Version)
 
 Remade For English users by [MSFTserver](http://msft.online)
 
@@ -11,7 +11,7 @@ Add modal google translate page
 ## Install
 
 ```
-apm install google-translate-modal
+apm install google-translate-modal(English-Version)
 ```
 
 ## Keymap

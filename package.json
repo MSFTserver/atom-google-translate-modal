@@ -1,15 +1,15 @@
 {
-  "name": "google-translate-modal",
-  "main": "./lib/google-translate-modal",
+  "name": "google-translate-modal-English-Version",
+  "main": "./lib/google-translate-modal-English-Version",
   "version": "1.2.2",
-  "description": "Add modal google translate page",
+  "description": "Add google translate page (English-Version)",
   "keywords": [
     "google",
     "translate",
-    "modal",
+    "translator",
     "toggle"
   ],
-  "repository": "https://github.com/msftserver/atom-google-translate-modal",
+  "repository": "https://github.com/msftserver/atom-google-translate-modal-English-Version",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
