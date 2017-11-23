@@ -6,7 +6,7 @@ Remade For English users by [MSFTserver](http://msft.online)
 
 Add modal google translate page
 
-![Atom Google Translate Modal](https://raw.githubusercontent.com/nju33/atom-google-translate-modal/master/screenshot.png)
+![Atom Google Translate Modal](https://raw.githubusercontent.com/msftserver/atom-google-translate-modal/master/screenshot.png)
 
 ## Install
 
