@@ -11,7 +11,7 @@ Add modal google translate page
 ## Install
 
 ```
-apm install google-translate-modal(English-Version)
+apm install google-translate-modal-English-Version
 ```
 
 ## Keymap
