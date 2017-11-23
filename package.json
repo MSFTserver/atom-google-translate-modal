@@ -9,7 +9,7 @@
     "modal",
     "toggle"
   ],
-  "repository": "https://github.com/nju33/atom-google-translate-modal",
+  "repository": "https://github.com/msftserver/atom-google-translate-modal",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
